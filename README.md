@@ -1,2 +1,3 @@
-# Moca.NET-DatabaseAccessDemo
-Demonstration of Database Access development using Moca.NET
+# Moca.NET Database Access Demo
+
+このサンプルコードは Moca.NET Framework を使った データベースアクセスの方法を示します。
